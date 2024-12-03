@@ -1,0 +1,8 @@
+-- Mostra os IPs --
+ipconfig
+-- Portão de Entrada numa Rede --
+Gateway
+-- Domain Name Server (servidor de nome de domínio)
+Procura o IP pelo nome
+Tem uma lista com IP e respectivo nome
+DNS
